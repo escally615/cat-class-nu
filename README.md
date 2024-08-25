@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Cat Class
+
+A React web-app that matches NU students with their peer tutors,
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
